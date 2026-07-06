@@ -1,0 +1,16 @@
+{
+  "scenario": "switch",
+  "n_genes": 24,
+  "n_clusters": 3,
+  "rho_in": 0.5,
+  "rho_out": 0.1,
+  "timepoints": [
+    0,
+    12,
+    24,
+    48,
+    72,
+    96
+  ],
+  "seed": 42
+}
