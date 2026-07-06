@@ -19,6 +19,9 @@ simulation/
 benchmarks/cardamom_benchmark/output/
 benchmarks/vectorial_embeddings/results/
 
+# IDE
+.vscode/
+
 # OS
 .DS_Store
 
